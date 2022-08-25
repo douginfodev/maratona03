@@ -1,2 +1,2 @@
 # maratona03
-Pagina criada na Maratona Explorer 3.0 by Rocketseat.
+Pagina WEB criada durenta meu programa de programação continuada durente a Maratona Explorer 3.0 realizada pela Rocketseat.
